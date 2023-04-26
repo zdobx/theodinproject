@@ -7,3 +7,5 @@ configure({
 
 
 // I'm only doing this to add changes for a commit as part of the Odin Project GitHub section
+
+// More comments for testing purposes 
